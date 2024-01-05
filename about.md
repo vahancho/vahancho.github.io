@@ -19,5 +19,6 @@ Some fun facts and interesting links about me:
 * My [LinkedIn profile](www.linkedin.com/in/vahancho)
 
 Have questions or suggestions? Feel free to write me an email.
+If you find this blog interesting you can subscribe to its [RSS feed](https://vahancho.github.io/atom.xml).
 
 Thanks for reading!

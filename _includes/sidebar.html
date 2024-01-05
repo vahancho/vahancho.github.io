@@ -26,16 +26,19 @@
     {% endfor %}
 
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub projects</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <a class="sidebar-nav-item" href="https://vahancho.github.io/atom.xml">RSS feed</a>
   </nav>
 
   <div class="sidebar-item">
-    <p>This web site is made using the <a href="https://github.com/poole/lanyon">Lanyon</a> Jekill theme</p>
+    <p>
+      Version: v{{ site.version }}
+    </p>
+    <p>
+      &copy; {{ site.time | date: '%Y' }} Vahan Aghajanyan. All rights reserved.
+    </p>
   </div>
 
   <div class="sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }} All rights reserved.
-    </p>
+    <p>This web site is made using the <a href="https://github.com/poole/lanyon">Lanyon</a> Jekill theme</p>
   </div>
 </div>
