@@ -1,7 +1,7 @@
 # Setup
 title:               Vahan Aghajanyan
 tagline:             'The Blog'
-description:         'Thoughts, ideas and much more. Made by <a href= "mailto:vahancho@gmail.com">Vahan Aghajanyan</a>.'
+description:         'I am <a href= "mailto:vahancho@gmail.com">Vahan Aghajanyan</a>, a software developer in Hamburg, Germany. <a href= "https://vahancho.github.io/about/">More about me.</a>'
 url:                 https://vahancho.github.io/
 baseurl:             ''
 paginate:            5

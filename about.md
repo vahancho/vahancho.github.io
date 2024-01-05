@@ -3,22 +3,25 @@ layout: page
 title: About
 ---
 
-My name is Vahan Aghajanyan and I'm a software developer with 25+ years of experience in software
-development, testing, test automation and solid knowledge of concepts and
-procedures of common software development methodologies, who strives to
-build software in accordance with the highest quality standards. Over the
+<img src="/public/images/avatar_vahan.jpg" alt="Vahan Aghajanyan" width="200">
+
+I'm Vahan Aghajanyan the author of this blog. I develop software since 1999 and have
+a rich experience in doing it as well as in testing and test automation. Over the
 years of engineering career, I have been influential in the industries such as
 Design for Manufacturing (DFM), Semiconductor Engineering, testing and
 test automation tools, maritime applications (navigation software and tools),
 financial applications and ERP systems.
 
-Some fun facts and interesting links about me:
+I was born and grew up in Armenia where I've graduated in 1997 and made my first career steps.
+Since 2011 I enjoy my living and working in Hamburg - the best city in Germany if
+not more.
 
-* Currently I live and work in Hamburg, Germany
-* My [GitHub repositories](https://github.com/vahancho?tab=repositories)
-* My [LinkedIn profile](www.linkedin.com/in/vahancho)
+Some facts and interesting links about me:
 
-Have questions or suggestions? Feel free to write me an email.
+* [GitHub repositories and toy projects](https://github.com/vahancho?tab=repositories)
+* [LinkedIn profile](www.linkedin.com/in/vahancho)
+
+Have questions or suggestions? Feel free to contact me.
 If you find this blog interesting you can subscribe to its [RSS feed](https://vahancho.github.io/atom.xml).
 
 Thanks for reading!
