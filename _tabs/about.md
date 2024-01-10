@@ -17,11 +17,6 @@ I was born and grew up in Armenia where I've graduated in 1997 and made my first
 Since 2011 I enjoy my living and working in Hamburg - the best city in Germany if
 not more.
 
-Some facts and interesting links about me:
-
-* [GitHub repositories and toy projects](https://github.com/vahancho?tab=repositories)
-* [LinkedIn profile](https://www.linkedin.com/in/vahancho)
-
 Have questions or suggestions? Feel free to contact me.
 If you find this blog interesting you can subscribe to its [RSS feed](https://vahancho.github.io/feed.xml).
 
