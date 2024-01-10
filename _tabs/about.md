@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Vahan Aghajanyan](/assets/img/avatar_vahan.jpg){: .right w="200"}
-_Vahan Aghajanyan_
+![Vahan Aghajanyan](/assets/img/avatar_vahan.jpg){: .right w="200" .shadow}
 
 I'm Vahan Aghajanyan the author of this blog. I develop software since 1999 and have
 a rich experience in doing it as well as in testing and test automation. Over the
