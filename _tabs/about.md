@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="/assets/img/avatar_vahan.jpg" alt="Vahan Aghajanyan" width="200">
+![Vahan Aghajanyan](/assets/img/avatar_vahan.jpg){: .right }
 
 I'm Vahan Aghajanyan the author of this blog. I develop software since 1999 and have
 a rich experience in doing it as well as in testing and test automation. Over the
@@ -20,7 +20,7 @@ not more.
 Some facts and interesting links about me:
 
 * [GitHub repositories and toy projects](https://github.com/vahancho?tab=repositories)
-* [LinkedIn profile](www.linkedin.com/in/vahancho)
+* [LinkedIn profile](https://www.linkedin.com/in/vahancho)
 
 Have questions or suggestions? Feel free to contact me.
 If you find this blog interesting you can subscribe to its [RSS feed](https://vahancho.github.io/feed.xml).
