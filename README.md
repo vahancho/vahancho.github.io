@@ -2,9 +2,9 @@
 
 [![Theme license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-This repository contains the scripts and content of the web site on [GitHub pages](https://vahancho.github.io/)
-The site's designs is based on a [Jekyll](https://jekyllrb.com) theme [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-and create by cloning the corresponding [template](https://github.com/cotes2020/chirpy-starter).
+The repository contains scripts and content of the web site on [GitHub pages](https://vahancho.github.io/).
+The design is based on a [Jekyll](https://jekyllrb.com) theme [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+and created by cloning the corresponding [template](https://github.com/cotes2020/chirpy-starter).
 
 ## Usage
 
