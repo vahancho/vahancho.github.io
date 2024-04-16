@@ -52,15 +52,16 @@ modern offices occupied by multiple small and large companies.
 I was walking around, exploring the buildings and went further along a street without
 knowing where I go. I didn't care, actually, as everything was new and interesting.
 I recall very well small open street cafes in the neighborhood, dozens of men sitting at the
-tables outside with bottles of cold bear and watching a football game (*FIFA World
-Cap 2010 in South Africa*) on large TV screens. They were really loud and expressive
+tables outside with bottles of cold bear and watching a football game (*[FIFA World
+Cap 2010](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup) in South Africa*)
+on large TV screens. They were really loud and expressive
 about the game. Some looked suspiciously at me holding a large EOS camera[^fn1]:)
 
 That day streets were unusually quiet and calm[^fn2]
 with only a few pedestrians, however I spotted some interesting ones too. All these
 immediately built up a special feeling of the city, which preserved until now.
 
-![](/assets/img/photos/IMG_0178.JPG){: .left w="200" .shadow}
+![](/assets/img/photos/IMG_0178.JPG){: .right w="200" .shadow}
 
 The company that invited me to the job interview was rather small, but prominent
 one (unfortunately the company doesn't exist anymore, and this is the second
@@ -71,7 +72,7 @@ Combination of `C++` programming language, `Qt` framework, test automation and b
 small and startup like made the company very attractive to me - it corresponded
 to my skillset and was exactly what I was looking for.
 
-![The Office](/assets/img/photos/IMG_0176.JPG){: .right w="200" .shadow}
+![The Office](/assets/img/photos/IMG_0176.JPG){: .left w="200" .shadow}
 
 When next morning I first rang the doorbell and stepped into the office I saw a
 relatively tiny but cozy space, split into even smaller rooms occupied by two
@@ -97,7 +98,7 @@ came and told me that they liked how it went and want to offer me a job in the c
 That was a great news, and I was trying to suppress my excitement and happiness.
 It didn't take to much time to decide to accept the offer to join the team.
 
-![The Harbor](/assets/img/photos/IMG_0220.JPG){: .left w="200" .shadow}
+![The Harbor](/assets/img/photos/IMG_0220.JPG){: .right w="200" .shadow}
 
 When I was going to leave the office one of the co-founders offered me to meet in
 the evening for a short city tour in Hamburg. I was surprised by such an attention
@@ -141,6 +142,8 @@ immediately formulated my impression in one sentence:
 
 P. S. At that time we didn't know that it will take about six months to finally
 move to Hamburg. But it is another story.
+
+---
 
 [^fn1]: At that time built-in cell phone cameras weren't that powerful and good as nowadays in smartphones.
 [^fn2]: I realized it later that it was Sunday, and nobody (well, almost) works on Sundays in Germany. Most of the stores, supermarkets are closed.
