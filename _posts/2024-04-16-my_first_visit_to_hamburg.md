@@ -1,19 +1,20 @@
 ---
 layout: post
-title: My first visit to Hamburg
+title: My First Visit to Hamburg
 date: 2024-04-16 13:10:00 +0200
 categories: [Blog]
 tags: [germany, hamburg, job, interview, history] # TAG names should always be lowercase
 ---
 
-My first visit to Hamburg took place back in Summer 2010, namely on 13th of June,
-2010. I memorized the exact date because it was the beginning of completely new
-2011. and exciting chapter of my life.
+My first visit to Hamburg took place back in Summer 2010, namely on 13th of June, 2010.
+I memorized the exact date because it was the beginning of completely new and exciting
+chapter of my life.
+
 It was a warm and sunny Summer day when I first arrive in Hamburg airport.
 I didn't know at that time that such a nice weather is rear in Hamburg, at least,
 if compare with Yerevan, where it's sunny most of the time, even in winter.
 I went out the plane and immediately found myself in the crowdy airport building.
-Following the "Ausgang - Exit" signs I went down the stairs past the large poster
+Following the *"Ausgang - Exit"* signs I went down the stairs past the large poster
 with "Welcome to Hamburg" greetings written in dozens of languages (didn't find
 Armenian letters, unfortunately). I didn't need to wait for my luggage, because
 my trip must be short, and I took only a backpack. Of course, my photo camera was
@@ -31,6 +32,8 @@ embassy etc. All these were in the past now, and I should, perhaps, feel a deep 
 but couldn't - so much time and energy invested, and it would be pity to fail on
 the last stage. Yeah, I admit, was really nervous.
 
+![](/assets/img/photos/IMG_0173.JPG){: .right w="200" .shadow}
+
 This time I decided to avoid my previous mistakes and reserve significant time
 for taking enough rest and sleep, especially after long journey and nightly flight.
 Studying in university, bazillion tests, exams and interviews have taught me a
@@ -44,8 +47,7 @@ surrounding had (and still has) a very authentic design - all buildings built of
 red bricks were preserved from the factory, but internally were transformed into
 modern offices occupied by multiple small and large companies.
 
-![](/assets/img/photos/IMG_0173.JPG){: .normal w="200" .shadow}
-![](/assets/img/photos/IMG_0206.JPG){: .normal w="200" .shadow}
+![](/assets/img/photos/IMG_0206.JPG){: .left w="200" .shadow}
 
 I was walking around, exploring the buildings and went further along a street without
 knowing where I go. I didn't care, actually, as everything was new and interesting.
@@ -58,16 +60,16 @@ That day streets were unusually quiet and calm[^fn2]
 with only a few pedestrians, however I spotted some interesting ones too. All these
 immediately built up a special feeling of the city, which preserved until now.
 
-![](/assets/img/photos/IMG_0178.JPG){: .normal w="200" .shadow}
-![](/assets/img/photos/IMG_0191.JPG){: .normal w="200" .shadow}
+![](/assets/img/photos/IMG_0178.JPG){: .left w="200" .shadow}
 
 The company that invited me to the job interview was rather small, but prominent
 one (unfortunately the company doesn't exist anymore, and this is the second
 company I worked in that disappeared). They produced a famous GUI test automation
-tool, which was widely used, especially for Qt based applications. Combination of
-C++ programming language, Qt framework, test automation and being small and startup
-like made the company very attractive to me - it corresponded to my skillset and
-was exactly what I was looking for.
+tool, which was widely used, especially for `Qt` based applications.
+
+Combination of `C++` programming language, `Qt` framework, test automation and being
+small and startup like made the company very attractive to me - it corresponded
+to my skillset and was exactly what I was looking for.
 
 ![The Office](/assets/img/photos/IMG_0176.JPG){: .right w="200" .shadow}
 
@@ -96,7 +98,6 @@ That was a great news, and I was trying to suppress my excitement and happiness.
 It didn't take to much time to decide to accept the offer to join the team.
 
 ![The Harbor](/assets/img/photos/IMG_0220.JPG){: .left w="200" .shadow}
-_The Harbor_
 
 When I was going to leave the office one of the co-founders offered me to meet in
 the evening for a short city tour in Hamburg. I was surprised by such an attention
@@ -110,23 +111,13 @@ the downtown, where I saw the beautify city hall, tall churches, Inner Alster La
 with its yachts and boots, crowded narrow streets with expensive shops. I was
 impressed how all these were harmonized within a single city and I started to feel it.
 
-![The Harbor](/assets/img/photos/IMG_0256_0.JPG){: .normal w="200" .shadow}
-_The Harbor_
-![The City Hall](/assets/img/photos/IMG_0237.JPG){: .normal w="200" .shadow}
-_The City Hall_
-![The Inner Alster](/assets/img/photos/IMG_0248.JPG){: .normal w="200" .shadow}
-_The Inner Alster_
-![Hamburg, Downtown](/assets/img/photos/IMG_0235.JPG){: .normal w="200" .shadow}
-_Hamburg, Downtown_
+![The Harbor](/assets/img/photos/IMG_0256_0.JPG){: .left w="200" .shadow}
 
 The idea to offer a city tour in addition to the job interview was a great and
 wise move from the company side, because I immediately feel belonging and got being
 accepted by the company and the team not only formally, but also emotionally. Such
 a personal treatment of new hires can boost the motivation and engagement.
 Unfortunately I never saw such moves from other companies either before or after.
-
-![The City Hall](/assets/img/photos/IMG_0238.JPG){: .left w="200" .shadow}
-_The City Hall_
 
 I had to leave the hotel next morning. The cab has arrived perfectly on time, and
 the driver was a friendly guy. As he spoke English we chatted while headed up to
@@ -136,12 +127,14 @@ he smiled and told: *"That's great! We need highly-qualified guys in Germany"*.
 Perhaps, it sounds a bit naive, but this phrase has built up in me an inner
 confidence that I'm on the right way and everything will be fine.
 
+![The City Hall](/assets/img/photos/IMG_0238.JPG){: .right w="200" .shadow}
+
 When the airplane finally took off, I looked from the window on Hamburg below.
 At that moment I just realized how beautiful it is from above: the harbor, the
 Elbe river, Alster, greens and parks. This view has built up my feeling of Hamburg
 as a city which stays with me until now.
 
-When I was back to home my wife asked me: "What do you think on Hamburg?", I
+When I was back to home my wife asked me: *"What do you think about Hamburg?"*, I
 immediately formulated my impression in one sentence:
 
 >There are cities that have parks inside, but Hamburg is a park with a city inside...
@@ -149,9 +142,6 @@ immediately formulated my impression in one sentence:
 P. S. At that time we didn't know that it will take about six months to finally
 move to Hamburg. But it is another story.
 
-[^fn1]: At that time built-in cell phone cameras weren't that powerful and good
-as nowadays in smartphones.
-[^fn2]: I realized it later that it was Sunday, and nobody (well, almost) works
-on Sundays in Germany. Most of the stores, supermarkets are closed.
-[^fn3]: Actually the company was never a classical startup founded by an entrepreneur.
-They always had a product to ship and no investors' money, AFAIK.
+[^fn1]: At that time built-in cell phone cameras weren't that powerful and good as nowadays in smartphones.
+[^fn2]: I realized it later that it was Sunday, and nobody (well, almost) works on Sundays in Germany. Most of the stores, supermarkets are closed.
+[^fn3]: Actually the company was never a classical startup founded by an entrepreneur. They always had a product to ship and no investors' money, AFAIK.
