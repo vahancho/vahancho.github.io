@@ -18,9 +18,9 @@ Following the *"Ausgang - Exit"* signs I went down the stairs past the large pos
 with "Welcome to Hamburg" greetings written in dozens of languages (didn't find
 Armenian letters, unfortunately). I didn't need to wait for my luggage, because
 my trip must be short, and I took only a backpack. Of course, my photo camera was
-also with me. I catch a taxi and headed up directly to the hotel.
+also with me. I caught a taxi and headed up directly to the hotel.
 
-While driving I didn't pay too much attention on surrounding and was focused on
+While being in the taxi I didn't pay too much attention on surrounding and was focused on
 the main purpose of my visit to Hamburg - the job interview. Three days long
 trip included arrival on day one, passing (or failing) the job interview on the
 day two and finally return flight on the third day - not too much time for relaxing.
@@ -57,8 +57,8 @@ Cap 2010](https://en.wikipedia.org/wiki/2010_FIFA_World_Cup) in South Africa*)
 on large TV screens. They were really loud and expressive
 about the game. Some looked suspiciously at me holding a large EOS camera[^fn1]:)
 
-That day streets were unusually quiet and calm[^fn2]
-with only a few pedestrians, however I spotted some interesting ones too. All these
+Streets were unusually quiet and calm with only a few pedestrians[^fn2],
+however I spotted some interesting ones too. All these
 immediately built up a special feeling of the city, which preserved until now.
 
 ![](/assets/img/photos/IMG_0178.JPG){: .right w="200" .shadow}
