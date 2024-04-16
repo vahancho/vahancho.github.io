@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first visit to Hamburg
-date: 2024-04-16 13:05:00 +0100
+date: 2024-04-16 13:10:00 +0200
 categories: [Blog]
 tags: [germany, hamburg, job, interview, history] # TAG names should always be lowercase
 ---
