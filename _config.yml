@@ -38,20 +38,41 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/vahancho # change to your github homepage
+    - https://www.linkedin.com/in/vahancho/
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your twitter homepage
     # - https://www.facebook.com/username
 
-google_site_verification: pd-Pp_qC5lc_KeMPWAZ5ipNZ08vagp3R2KkJf6WX_uo # fill in to your verification string
+# Site Verification Settings
+webmaster_verifications:
+  google: pd-Pp_qC5lc_KeMPWAZ5ipNZ08vagp3R2KkJf6WX_uo
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: G-EQ2ZN30TYJ # fill in your Google Analytics ID
+# Web Analytics Settings
+analytics:
+  google:
+    id: G-EQ2ZN30TYJ # fill in your Google Analytics ID
+  goatcounter:
+    id: # fill in your GoatCounter ID
+  umami:
+    id: # fill in your Umami ID
+    domain: # fill in your Umami domain
+  matomo:
+    id: # fill in your Matomo ID
+    domain: # fill in your Matomo domain
+  cloudflare:
+    id: # fill in your Cloudflare Web Analytics token
 
-goatcounter:
-  id: # fill in your Goatcounter ID
+# Pageviews settings
+pageviews:
+  provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -66,22 +87,27 @@ goatcounter:
 #
 theme_mode: # [light | dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
+# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avatar_vahan.jpg
+
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
+  # Global switch for the post comment system. Keeping it empty means disabled.
+  provider: giscus # [disqus | utterances | giscus]
+  # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
@@ -95,6 +121,7 @@ comments:
     category: General
     category_id: DIC_kwDOK7KF8c4Ccb4C
     mapping: # optional, default to 'pathname'
+    strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
@@ -125,6 +152,7 @@ baseurl: ""
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
@@ -185,7 +213,7 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - rollup.config.js
+  - "*.config.js"
   - package*.json
 
 jekyll-archives:
