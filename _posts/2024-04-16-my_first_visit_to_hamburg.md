@@ -14,6 +14,9 @@ It was a warm and sunny Summer day when I first arrive in Hamburg airport.
 I didn't know at that time that such a nice weather is rear in Hamburg, at least,
 if compare with Yerevan, where it's sunny most of the time, even in winter.
 I went out the plane and immediately found myself in the crowdy airport building.
+
+![](/assets/img/photos/welcome_hamburg.jpg){: .left w="200" .shadow}
+
 Following the *"Ausgang - Exit"* signs I went down the stairs past the large poster
 with "Welcome to Hamburg" greetings written in dozens of languages (didn't find
 Armenian letters, unfortunately). I didn't need to wait for my luggage, because
