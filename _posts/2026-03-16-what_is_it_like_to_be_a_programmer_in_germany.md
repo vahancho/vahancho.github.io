@@ -28,6 +28,8 @@ I will cover only cases of the skilled immigration, particularly, of software
 developers which is my case. Although, many aspects may be common for other
 specialties too.
 
+![](/assets/img/photos/PXL_20250824_132610207.jpg){: .left w="250" .shadow}
+
 It's known that Germany is an industrial country and its economy is one of the
 biggest in Europe. As a result it requires a lot of highly-qualified workers,
 including software engineers. Needles to say, that this demand is significantly
@@ -67,6 +69,8 @@ of such requirements (out of my memory):
   German before;
 - etc.
 
+![](/assets/img/photos/PXL_20250601_122747230.jpg){: .right w="250" .shadow}
+
 All these requirements and many more do not exist today. It's much easier for
 companies to consider applicants from other countries and demand is much higher.
 Since this year (2024) most of the procedures are simplified, especially new
@@ -80,7 +84,11 @@ You can achieve this more easily and faster than before.
 
 You probably already heard about high standards of the medical service in Germany.
 As a legal resident you can expect any kind of medical treatment from the day one.
-However, it's not for free, as some people tend to think. Well, let's say, it's
+However, it's not for free, as some people tend to think.
+
+![](/assets/img/photos/PXL_20260207_144917953.jpg){: .left w="250" .shadow}
+
+Well, let's say, it's
 free for those who don't have any income, or they make less than some
 minimum. Here is how it works. First of all, everyone in Germany must be insured regardless
 of the employment status and, if you have income, you must pay some percentage from your wages
@@ -89,6 +97,7 @@ cannot work your insurance is covered by those who works and pays. This system i
 indeed, complex and it works only if **everyone** pays.
 You also don't have to worry if you loose your job for some reasons - the medical
 insurance is still preserved.
+
 There are, of course, some limitations with coverage too. Insurance will not probably
 cover cases that aren't directly related to your health. For instance some cosmetic
 operations or corrections.
@@ -141,6 +150,8 @@ Finally, you are simply not allowed to work more than stated in your contract,
 even if you can. Of course, there are some exceptions, but they are all are strictly
 regulated by the [labor law](https://www.bmas.de/EN/Labour/Labour-Law/labour-law.html).
 
+![](/assets/img/photos/PXL_20241027_104634240.jpg){: .right w="250" .shadow}
+
 Apart from the work hours, companies are obligated to provide paid day offs (at least
 two days monthly for full time workers), paid sick leaves (up to six weeks) and other
 benefits that fit to the basic concept of employee's well being. A typical full time
@@ -173,6 +184,8 @@ also no job ranks like "junior", "senior" etc. Everyone is a "software developer
 it advertised as a company benefit. I have noticed, that Germans, in general, try
 to avoid anything that reminds any kind of hierarchy. I suspect, they try to get rid of
 some existing unpleasant stereotypes about them.
+
+![](/assets/img/photos/PXL_20250824_112638287.jpg){: .left w="250" .shadow}
 
 I was also a witness of excessive usage of word "manager" within the company, where
 almost a half of the staff had "Manager" in their job title: "Office manager", "Data
@@ -218,6 +231,8 @@ software engineering skills. Although, many professionals combine them pretendin
 to be good in both, but it is rather rare the case. You are either
 a good physicist or a good programmer, but not both.
 
+![](/assets/img/photos/PXL_20250511_173253237.jpg){: .right w="250" .shadow}
+
 In almost all companies[^fn7] there is a number of people, who work there
 for many years, even decades. Some of them are employed directly after their
 graduation and never worked anywhere else. Let's call them the core staff. These
@@ -244,6 +259,8 @@ is the key. As I said earlier, Germans are skeptical, and need more time to get 
 you and your super ideas better. If you offer something really good, be
 persistent, and don't worry, it will eventually accepted - there are always open
 minded and flexible people among others.
+
+![](/assets/img/photos/PXL_20250511_165159385.jpg){: .left w="250" .shadow}
 
 What is said can be observed in other countries, companies and societies too.
 However, what makes German professionals stand out from the crowd is their pathological
